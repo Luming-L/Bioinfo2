@@ -1,4 +1,4 @@
-## process: ab initio software
+cc## process: ab initio software
 ### Glimmer
 predict Prokaryotic genes
 - train the algorithm for a particular organism
@@ -30,8 +30,8 @@ start codon
 > [exon](https://www.biostars.org/p/6391/)
 > [https://www.jianshu.com/p/931e9821c45a](https://www.jianshu.com/p/931e9821c45a)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU2OTQ2MTksMTg1NzU4MjE5MiwxNz
-AyNDMwOTAwLDIyNTE5MzcyNiwtMTM4MzU4MjQ4MCwtMTY4NDI2
-MDY1OCwtMTIzNTIwNjEyNywtMTYzOTgxMzMxMSw4NjE4MjA4ND
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTcyMjcwNjcsLTIwNTU2OTQ2MTksMT
+g1NzU4MjE5MiwxNzAyNDMwOTAwLDIyNTE5MzcyNiwtMTM4MzU4
+MjQ4MCwtMTY4NDI2MDY1OCwtMTIzNTIwNjEyNywtMTYzOTgxMz
+MxMSw4NjE4MjA4NDZdfQ==
 -->
